@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabalho01</string>
+    <string name="string_checkbox_salvar">MEMORIZAR</string>
+    <string name="string_button_buscar">BUSCAR</string>
+    <string name="string_placeholder_cep">CEP</string>
+    <string name="string_text_view_cep">DIGITE SEU CEP</string>
+    <string name="string_text_view_texto">Deseja buscar imóveis à venda nessa região?</string>
+    <string name="string_button_sim">SIM</string>
+</resources>
